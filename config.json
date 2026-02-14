@@ -1,0 +1,151 @@
+{
+  "names": {
+    "sender": "Ann",
+    "receiver": "Francii"
+  },
+  "theme": {
+    "primaryColor": "#b33771",
+    "secondaryColor": "#fd7272",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "will you be my valentine? 💜",
+    "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 YAYYYYY!!! 💖",
+    "successSubtitle": "That's the best decision you've ever made ❤️😘",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, Francii",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Girl I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/assets/cute-bear.gif",
+    "musicBearGif": "/assets/music-bear.gif",
+    "comfortBearGif": "/assets/comfort-bear.gif",
+    "kissBearGif": "/assets/kiss-bears.gif",
+    "photoBearGif": "/assets/photo-bear.gif",
+    "loveYouBearGif": "/assets/love-you-bear.gif",
+    "childGif": "/assets/child.gif",
+    "roseBearGif": "/assets/rose-bear.gif",
+    "cookBearGif": "/assets/cook-bear.gif",
+    "kissSingleBearGif": "/assets/kiss-bear.gif",
+    "leftButton": "/assets/left-button.png",
+    "rightButton": "/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/assets/gift/gift.png",
+    "gift2": "/assets/gift/gift.png",
+    "gift3": "/assets/gift/gift.png"
+  },
+  "couplePhotos": [
+    {
+      "image": "/assets/couple_photo/couple_photo_1.jpeg",
+      "caption": "Aduth olapo marydhk oranem edukan pattilaloo.."
+    },
+    {
+      "image": "/assets/couple_photo/couple_photo_2.jpeg",
+      "caption": "Busil poye orkanundoo..."
+    },
+    {
+      "image": "/assets/couple_photo/couple_photo_4.jpeg",
+      "caption": "Tension adich chath casamiayil"
+    },
+    {
+      "image": "/assets/couple_photo/couple_photo_3.jpeg",
+      "caption": "Aluvayil pedich vahna njnum pedikathe vahna neeyum"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/assets/cook-bear.gif",
+      "text": "I can cook for you or buy  food if you cant🤭"
+    },
+    {
+      "gif": "/assets/comfort-bear.gif",
+      "text": "U will get a partner who understands you very much in any situation 🤗"
+    },
+    {
+      "gif": "/assets/cute-bear.gif",
+      "text": "Can hear imagination stories whenever wanted🤭"
+    },
+    {
+      "gif": "/assets/kiss-bears.gif",
+      "text": "If it's u and me,we could live a Happy life till the end 🫣"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Oru Maalai",
+      "duration": "3:37",
+      "album": "Ghajini",
+      "artist": "",
+      "cover": "/src/assets/album-covers/ghajini.jpg",
+      "audio": "/src/assets/songs/Oru-Maalai.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Agasatha",
+      "duration": "4:59",
+      "album": "Cuckoo",
+      "artist": "",
+      "cover": "/src/assets/album-covers/cuckoo.jpg",
+      "audio": "/src/assets/songs/agasatha.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Unakagathanae",
+      "duration": "04:51",
+      "album": "Katradhu Tamizh",
+      "artist": "",
+      "cover": "/src/assets/album-covers/katradhu-tamizh.jpg",
+      "audio": "/src/assets/songs/unakagathanae.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Aasa Orave",
+      "duration": "3:45",
+      "album": "Lubber Panthu",
+      "artist": "",
+      "cover": "/src/assets/album-covers/aasa_orave.jpg",
+      "audio": "/src/assets/songs/Aasa-Orave.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Kadhal Kanave",
+      "duration": "4:08",
+      "album": "Mundasupatti",
+      "artist": "",
+      "cover": "/src/assets/album-covers/mundasupatti.jpg",
+      "audio": "/src/assets/songs/kadhal-kanave.mp3"
+    }
+  ],
+  "letter": {
+    "title": "My Dearest Francii,",
+    "content": [
+      "I fell for you in a way i never expected.  Actually you made me fall for you 🤭. With you each day of my life gets better. 🤗",
+      "Love you for a lifetime that it never fades and hope we could live together happily 🫂",
+      "You are the person where i saw a heart that loves me unconditionally, that i even fell for you more day by day🫣"
+    ],
+    "signature": "Forever yours,\nAnn"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Get my Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
